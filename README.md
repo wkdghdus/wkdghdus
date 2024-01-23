@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Luke</h1>
-<h3 align="center">A passionate and inquisitive developer from Western University</h3>
+<h3 align="center">A passionate full stack developer from Western University</h3>
 
 - 🔭 I’m currently working on **mandalart generator**
 
