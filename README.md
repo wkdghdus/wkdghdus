@@ -1,9 +1,4 @@
 <h1 align="center">Hi, I'm Luke!</h1>
-<h3 align="center">A passionate full stack developer from Western University</h3>
-
-- 🔭 I’m currently working on **3D website and lottery number predictor using ML**
-
-- 🌱 I’m currently learning **Java script, data structures, algorithms, ML**
 
 - 📫 Contact me: **h.lukejang@gmail.com**
 
