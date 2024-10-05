@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Luke!</h1>
 
-- 📫 Contact me: **h.lukejang@gmail.com**
+📫 Contact me: **h.lukejang@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
