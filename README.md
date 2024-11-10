@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Luke!</h1>
+<h3 align="center">A programmer, not coder</h3>
 
 📫 Contact me: **h.lukejang@gmail.com**
 
